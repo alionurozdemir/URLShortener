@@ -1,13 +1,9 @@
 # URL Shortener 
-3
+
 Uzun Url adreslerini kısaltmanızı sağlayan flutter ile geliştirdiğim mobil uygulama.
-4
-​
-5
+
 ## Projede Kullandığım Paketler
-11
 - [http]
-12
 - [riverpod]
 - [flutter_svg]
 - [google_fonts]
