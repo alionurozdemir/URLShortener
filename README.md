@@ -1,4 +1,4 @@
-#URL Shortener
+# URL Shortener
 A mobile application developed using Flutter that allows you to shorten long URL addresses.
 
 ## Used Packages
@@ -13,7 +13,7 @@ A mobile application developed using Flutter that allows you to shorten long URL
 ### Clone the repository
 
 ```
-$ git clone [[https://github.com/alionurozdemir/ingilizceGo]
+$ git clone https://github.com/alionurozdemir/ingilizceGo
 ```
 
 ###### Install the dependencies
