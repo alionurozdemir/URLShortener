@@ -1,19 +1,36 @@
-# URL Shortener 
+#URL Shortener
+A mobile application developed using Flutter that allows you to shorten long URL addresses.
 
-Uzun Url adreslerini kısaltmanızı sağlayan flutter ile geliştirdiğim mobil uygulama.
+## Used Packages
++ http
++ riverpod
++ flutter_svg
++ google_fonts
++ dots_indicator
 
-## Projede Kullandığım Paketler
-- [http]
-- [riverpod]
-- [flutter_svg]
-- [google_fonts]
-- [dots_indicator]
+## Getting started
 
-## Lisans
-Projenin herhangi bir lisansı yoktur, kodları indirip istediğiniz gibi geliştirebilirsiniz.
+### Clone the repository
 
-## Destek & Geliştirme
-Projedeki yakaladığın bugları bana bildirebilirsiniz.
+```
+$ git clone [[https://github.com/alionurozdemir/ingilizceGo]
+```
 
-### Kullandığım API
-https://shrtco.de/docs
+###### Install the dependencies
+```
+$ flutter pub get
+```
+
+###### Run the app
+```
+$ flutter run
+```
+
+## License
+This project does not have any license, you can download the code and develop it as you wish.
+
+## Support & Development
+You can report any bugs you catch in the project to me.
+
+## API
+The API used in this project is [shrtco.de](https://shrtco.de/docs)
